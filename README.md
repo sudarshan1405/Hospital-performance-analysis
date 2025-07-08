@@ -32,3 +32,5 @@ Power BI for data modeling & visualization
 
 <h2>Healthcare Data (anonymized & simulated for demo)</h2>
 
+![dashboard preview]([https://github.com/sudarshan1405/car_data_dashborad/blob/main/Screenshot%202025-06-14%20225250.png](https://github.com/sudarshan1405/Hospital-performance-analysis/blob/main/Screenshot%202025-07-06%20150534.png)
+)
